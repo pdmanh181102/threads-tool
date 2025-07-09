@@ -1,0 +1,21 @@
+{
+    "account": {
+        "username": "phungducmanh666@gmail.com",
+        "password": "************"
+    },
+    "trackingUsernames": [
+        "phun.gducmanh666","bullyjuice"
+    ],
+    "threadsRuntimeConfig": {
+        "scrollRetryCount": 3,
+        "scrollRetryInterval": 1000,
+        "timeOut": 10000,
+        "inputUsernameXpath": "/html/body/div[2]/div/div/div[3]/div/div/div/div[1]/div[1]/div[3]/form/div/input",
+        "inputPasswordXpath": "/html/body/div[2]/div/div/div[3]/div/div/div/div[1]/div[1]/div[3]/form/div/div[1]/div[1]/input",
+        "loginButtonXpath": "/html/body/div[2]/div/div/div[3]/div/div/div/div[1]/div[1]/div[3]/form/div/div[1]/div[2]/div[2]",
+        "postCssSelector": ".xrvj5dj.xd0jker.x1evr45z",
+        "postContentCssSelector": ".x1a6qonq.x6ikm8r.x10wlt62.xj0a0fe.x126k92a.x6prxxf.x7r5mf7",
+        "postImageTagnameSelector": "img",
+        "postVideoCssSelector": ".x1lliihq.x5yr21d.xh8yej3"
+    }
+}
